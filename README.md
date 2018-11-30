@@ -35,10 +35,10 @@
           * the report should contain the simulation waveform, the response to questions, the hdl codes, and the c code
   * Constraints file {{:hard:5siec_zynq:zybo_master.doc|}}
   * Video tutorials
-          * Adding constraints file [link](https://www.youtube.com/watch?v=baFEqLVBG1E)
-          * IP creator [link](https://www.youtube.com/watch?v=gnbRVULOWoU)
-          * IP packaging [link](https://www.youtube.com/watch?v=Xzvocc-HCl0&feature=youtu.be)
-          * Writing to memory addresses [link](https://www.youtube.com/watch?v=pGkhvc36sgU)
+          - Adding constraints file [link](https://www.youtube.com/watch?v=baFEqLVBG1E)
+          - IP creator [link](https://www.youtube.com/watch?v=gnbRVULOWoU)
+          - IP packaging [link](https://www.youtube.com/watch?v=Xzvocc-HCl0&feature=youtu.be)
+          - Writing to memory addresses [link](https://www.youtube.com/watch?v=pGkhvc36sgU)
 
 # TD
 
