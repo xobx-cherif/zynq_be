@@ -54,19 +54,19 @@
    > 2. TB [link](5siec_zynq_datas/tb_td_ex01.vhd)
 ## Hardware debug TD2
 
-  * {{:hard:5siec_zynq:td02.pdf|}}
-  * ILA documentation [[https://www.xilinx.com/support/documentation/ip_documentation/ila/v6_1/pg172-ila.pdf | here]]
-  * JTAG to AXI Master documentation [[https://www.xilinx.com/support/documentation/ip_documentation/jtag_axi/v1_2/pg174-jtag-axi.pdf | here]]
-  * ILA video Tutorial [[https://www.youtube.com/watch?v=SllATwKoBmA&feature=youtu.be | youtube]]
+  * TD0x02 [link](5siec_zynq_datas/td02.pdf)
+  * ILA documentation [link](https://www.xilinx.com/support/documentation/ip_documentation/ila/v6_1/pg172-ila.pdf)
+  * JTAG to AXI Master documentation [link](https://www.xilinx.com/support/documentation/ip_documentation/jtag_axi/v1_2/pg174-jtag-axi.pdf)
+  * ILA video Tutorial [link](https://www.youtube.com/watch?v=SllATwKoBmA&feature=youtu.be)
 
 
 # Final project
 
 In this project we will develop a prototype pf a guitar multi-effects pedal (we will use just two effects to demonstrate the feasibility of the Project).
 
-  * Project doccument {{:hard:5siec_zynq:project.pdf|}}
-  * Constraints file {{:hard:5siec_zynq:project_constraints.doc|}}
-  * Zybo audio control IP {{:hard:5siec_zynq:xilinx_com_zybo_audio_ctrl_1.0.zip|}}
-  * audio driver source code {{:hard:5siec_zynq:src.rar|}}
-  * SSM2603 datasheet [[http://www.analog.com/media/en/technical-documentation/data-sheets/SSM2603.pdf | here]]
-  * VHDL Testbench generation tool [[http://vhdl.lapinoo.net/testbench/ | here]]
+  * Project doccument [link](5siec_zynq_datas/project.pdf)
+  * Constraints file [link](5siec_zynq_datas/project_constraints.doc)
+  * Zybo audio control IP [link](5siec_zynq_datas/xilinx_com_zybo_audio_ctrl_1.0.zip)
+  * audio driver source code [link](5siec_zynq_datas/src.rar)
+  * SSM2603 datasheet [link](http://www.analog.com/media/en/technical-documentation/data-sheets/SSM2603.pdf)
+  * VHDL Testbench generation tool [here](http://vhdl.lapinoo.net/testbench/)
