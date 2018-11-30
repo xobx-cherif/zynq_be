@@ -5,7 +5,7 @@
   * CHERIF Bilel
   * email : bcherif@laas.fr
 
----
+
 
 # Documentation
 
@@ -20,7 +20,7 @@
 
  * Course 0x02 [link](5siec_zynq_datas/cours_2.pdf)
  
----
+
 
 # TP Files
 
@@ -47,7 +47,7 @@
 | IP packaging             | [Here](https://www.youtube.com/watch?v=Xzvocc-HCl0&feature=youtu.be)        |
 | Writing to memory addresses             | [Here](https://www.youtube.com/watch?v=pGkhvc36sgU)        |
 
----
+
 
 # TD
 
@@ -65,7 +65,7 @@
   * JTAG to AXI Master documentation [link](https://www.xilinx.com/support/documentation/ip_documentation/jtag_axi/v1_2/pg174-jtag-axi.pdf)
   * ILA video Tutorial [link](https://www.youtube.com/watch?v=SllATwKoBmA&feature=youtu.be)
   
----
+
 
 # Final project
 
