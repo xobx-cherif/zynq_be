@@ -1,6 +1,6 @@
 
 > “Don’t criticize what you don’t understand, son. You never walked in that man’s shoes.”
-> – Elvis Presley
+>         – Elvis Presley
 
 # Course tutor
 
