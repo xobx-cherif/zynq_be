@@ -6,6 +6,7 @@
   * email : bcherif@laas.fr
 
 # Documentation
+---
 
   * Zynq book [link](http://www.zynqbook.com) : un livre sur le SOC Zynq de renommée internationale
   *  Altera (le concurrent de ZYNQ, utilise le même contrôleur d'interruption que ZYNQ puisqu'il est fabriqué par ARM) propose une documentation plus digeste que celle de ARM ou Xilinx. [link](5siec_zynq_datas/using_gic.pdf)
@@ -19,7 +20,7 @@
  * Course 0x02 [link](5siec_zynq_datas/cours_2.pdf)
 
 # TP Files
-
+---
 ## TP 01 doccuments
 
   * TP0x01 [link](5siec_zynq_datas/tp01.pdf)
@@ -44,7 +45,7 @@
 | Writing to memory addresses             | [Here](https://www.youtube.com/watch?v=pGkhvc36sgU)        |
 
 # TD
-
+---
 ## Double handshake protocol TD1
 
   * TD0x01 [link](5siec_zynq_datas/td01.pdf)
@@ -61,7 +62,7 @@
 
 
 # Final project
-
+---
 In this project we will develop a prototype pf a guitar multi-effects pedal (we will use just two effects to demonstrate the feasibility of the Project).
 
   * Project doccument [link](5siec_zynq_datas/project.pdf)
