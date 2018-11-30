@@ -47,11 +47,11 @@
 
 ## Double handshake protocol TD1
 
-  * {{:hard:5siec_zynq:td01.pdf|}}
-  * Testbench example {{:hard:5siec_zynq:testbench.vhd|}}
+  * TD0x01 [link](5siec_zynq_datas/td01.pdf)
+  * Testbench example [link](5siec_zynq_datas/testbench.vhd)
   * Exo1 source codes :
-         * CODE {{:hard:5siec_zynq:td_ex01.vhd|}}
-         * TB {{:hard:5siec_zynq:tb_td_ex01.vhd|}}
+         * CODE [link](5siec_zynq_datas/td_ex01.vhd)
+         * TB [link](5siec_zynq_datas/tb_td_ex01.vhd)
 ## Hardware debug TD2
 
   * {{:hard:5siec_zynq:td02.pdf|}}
