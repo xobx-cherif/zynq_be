@@ -50,8 +50,8 @@
   * TD0x01 [link](5siec_zynq_datas/td01.pdf)
   * Testbench example [link](5siec_zynq_datas/testbench.vhd)
   * Exo1 source codes :
-         * CODE [link](5siec_zynq_datas/td_ex01.vhd)
-         * TB [link](5siec_zynq_datas/tb_td_ex01.vhd)
+   1. CODE [link](5siec_zynq_datas/td_ex01.vhd)
+   2. TB [link](5siec_zynq_datas/tb_td_ex01.vhd)
 ## Hardware debug TD2
 
   * {{:hard:5siec_zynq:td02.pdf|}}
