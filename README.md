@@ -7,7 +7,7 @@
 
 # Documentation
 
-  * [[http://www.zynqbook.com|The Zynq Book]] : un livre sur le SOC Zynq de renommée internationale
+  * [zynq book](http://www.zynqbook.com) : un livre sur le SOC Zynq de renommée internationale
   * {{:hard:5siec_zynq:using_gic.pdf|}} Altera (le concurrent de ZYNQ, utilise le même contrôleur d'interruption que ZYNQ puisqu'il est fabriqué par ARM) propose une documentation plus digeste que celle de ARM ou Xilinx. {{:hard:5siec_zynq:using_gic.pdf|}}
   * {{:hard:5siec_zynq:arm_a9_intro_alt.pdf|Intro ARM9 faite par Altera}}
   * Zynq TRM [[https://www.xilinx.com/support/documentation/user_guides/ug585-Zynq-7000-TRM.pdf | here]]
