@@ -4,7 +4,9 @@
 
   * CHERIF Bilel
   * email : bcherif@laas.fr
+
 ---
+
 # Documentation
 
   * Zynq book [link](http://www.zynqbook.com) : un livre sur le SOC Zynq de renommée internationale
@@ -17,7 +19,9 @@
  * Course 0x01 [link](5siec_zynq_datas/cours_01.pdf)
 
  * Course 0x02 [link](5siec_zynq_datas/cours_2.pdf)
+ 
 ---
+
 # TP Files
 
 ## TP 01 doccuments
@@ -44,6 +48,7 @@
 | Writing to memory addresses             | [Here](https://www.youtube.com/watch?v=pGkhvc36sgU)        |
 
 ---
+
 # TD
 
 ## Double handshake protocol TD1
@@ -59,7 +64,9 @@
   * ILA documentation [link](https://www.xilinx.com/support/documentation/ip_documentation/ila/v6_1/pg172-ila.pdf)
   * JTAG to AXI Master documentation [link](https://www.xilinx.com/support/documentation/ip_documentation/jtag_axi/v1_2/pg174-jtag-axi.pdf)
   * ILA video Tutorial [link](https://www.youtube.com/watch?v=SllATwKoBmA&feature=youtu.be)
+  
 ---
+
 # Final project
 
 In this project we will develop a prototype pf a guitar multi-effects pedal (we will use just two effects to demonstrate the feasibility of the Project).
