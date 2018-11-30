@@ -7,11 +7,11 @@
 
 # Documentation
 
-  * [zynq book](http://www.zynqbook.com) : un livre sur le SOC Zynq de renommée internationale
-  * {{:hard:5siec_zynq:using_gic.pdf|}} Altera (le concurrent de ZYNQ, utilise le même contrôleur d'interruption que ZYNQ puisqu'il est fabriqué par ARM) propose une documentation plus digeste que celle de ARM ou Xilinx. {{:hard:5siec_zynq:using_gic.pdf|}}
-  * {{:hard:5siec_zynq:arm_a9_intro_alt.pdf|Intro ARM9 faite par Altera}}
-  * Zynq TRM [[https://www.xilinx.com/support/documentation/user_guides/ug585-Zynq-7000-TRM.pdf | here]]
-  * Vivado HLS user manual [[https://www.xilinx.com/support/documentation/sw_manuals/xilinx2014_1/ug902-vivado-high-level-synthesis.pdf | here]]
+  * Zynq book [link](http://www.zynqbook.com) : un livre sur le SOC Zynq de renommée internationale
+  *  Altera (le concurrent de ZYNQ, utilise le même contrôleur d'interruption que ZYNQ puisqu'il est fabriqué par ARM) propose une documentation plus digeste que celle de ARM ou Xilinx. [link](5siec_zynq_datas/using_gic.pdf)
+  * ARM A9 [link](5siec_zynq_datas/arm_a9_intro_alt.pdf) Intro ARM9 faite par Altera
+  * Zynq TRM [link](https://www.xilinx.com/support/documentation/user_guides/ug585-Zynq-7000-TRM.pdf)
+  * Vivado HLS user manual [link](https://www.xilinx.com/support/documentation/sw_manuals/xilinx2014_1/ug902-vivado-high-level-synthesis.pdf)
 
 ## Course files
 {{:hard:5siec_zynq:cours_01.pdf|}}
