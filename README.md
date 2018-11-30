@@ -31,14 +31,16 @@
 
 ## TP 02 doccuments
 
-  * {{:hard:5siec_zynq:tp02.pdf|}} (a report should be sent to my email by the end of the TP)(this is a two sessions TP)
-          * the report should contain the simulation waveform, the response to questions, the hdl codes, and the c code
-  * Constraints file {{:hard:5siec_zynq:zybo_master.doc|}}
+  * TP0x02 [link](5siec_zynq_datas/tp02.pdf) (a report should be sent to my email by the end of the TP)(this is a two sessions TP)
+  * the report should contain the simulation waveform, the response to questions, the hdl codes, and the c code
+  * Constraints file [link](5siec_zynq_datas/zybo_master.doc)
   * Video tutorials
-          - Adding constraints file [link](https://www.youtube.com/watch?v=baFEqLVBG1E)
-          - IP creator [link](https://www.youtube.com/watch?v=gnbRVULOWoU)
-          - IP packaging [link](https://www.youtube.com/watch?v=Xzvocc-HCl0&feature=youtu.be)
-          - Writing to memory addresses [link](https://www.youtube.com/watch?v=pGkhvc36sgU)
+  | TThing              | Link        |
+  | ------------------- | ----------- |
+  | Adding constraints file          | [Here](https://www.youtube.com/watch?v=baFEqLVBG1E) |
+  | IP creator   | [Here](https://www.youtube.com/watch?v=gnbRVULOWoU) |
+  | IP packaging             | [Here](https://www.youtube.com/watch?v=Xzvocc-HCl0&feature=youtu.be)        |
+  | Writing to memory addresses             | [Here](https://www.youtube.com/watch?v=pGkhvc36sgU)        |
 
 # TD
 
