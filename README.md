@@ -1,7 +1,7 @@
 
 
 <p align="center"> 
-<img src="https://reference.digilentinc.com/_media/zybo/zybo_revb-box-1000.png)">
+<img src="zybo.png">
 </p>
 
 > “Don’t criticize what you don’t understand, son. You never walked in that man’s shoes.”
