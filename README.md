@@ -10,7 +10,7 @@
 # Course tutor
 
 <p align="center"> 
-<img src="https://wi-images.condecdn.net/image/0x1LedAko1J/crop/810/f/phd-front.jpg" width="100">
+<img src="https://wi-images.condecdn.net/image/0x1LedAko1J/crop/810/f/phd-front.jpg" >
 </p>
 
   * CHERIF Bilel
