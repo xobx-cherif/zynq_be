@@ -9,6 +9,10 @@
 
 # Course tutor
 
+<p align="center"> 
+<img src="https://wi-images.condecdn.net/image/0x1LedAko1J/crop/810/f/phd-front.jpg" width="65">
+</p>
+
   * CHERIF Bilel
   * email : bcherif@laas.fr
 
