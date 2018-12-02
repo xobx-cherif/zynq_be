@@ -49,7 +49,7 @@
   
 | Thing              | Link        |
 | ------------------- | ----------- |
-| Adding constraints file          | [![HERE](http://www.myiconfinder.com/uploads/iconsets/256-256-3a1eef40f04875d93dd6545f2f1b727e-youtube.png)](https://www.youtube.com/watch?v=baFEqLVBG1E) |
+| Adding constraints file          | [<img src="http://www.myiconfinder.com/uploads/iconsets/256-256-3a1eef40f04875d93dd6545f2f1b727e-youtube.png" width="48">](https://www.youtube.com/watch?v=baFEqLVBG1E) |
 | IP creator   | [![HERE](http://www.myiconfinder.com/uploads/iconsets/256-256-3a1eef40f04875d93dd6545f2f1b727e-youtube.png)](https://www.youtube.com/watch?v=gnbRVULOWoU) |
 | IP packaging             | [![HERE](http://www.myiconfinder.com/uploads/iconsets/256-256-3a1eef40f04875d93dd6545f2f1b727e-youtube.png)](https://www.youtube.com/watch?v=Xzvocc-HCl0&feature=youtu.be)        |
 | Writing to memory addresses             | [![HERE](http://www.myiconfinder.com/uploads/iconsets/256-256-3a1eef40f04875d93dd6545f2f1b727e-youtube.png)](https://www.youtube.com/watch?v=pGkhvc36sgU)        |
