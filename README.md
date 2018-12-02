@@ -45,14 +45,14 @@
   * TP0x02 [link](5siec_zynq_datas/tp02.pdf) (a report should be sent to my email by the end of the TP)(this is a two sessions TP)
   * the report should contain the simulation waveform, the response to questions, the hdl codes, and the c code
   * Constraints file [link](5siec_zynq_datas/zybo_master.doc)
-  * Video tutorials
+  * Video tutorials :
   
 | Thing              | Link        |
 | ------------------- | ----------- |
-| Adding constraints file          | [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=baFEqLVBG1E) |
-| IP creator   | [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=gnbRVULOWoU) |
-| IP packaging             | [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=Xzvocc-HCl0&feature=youtu.be)        |
-| Writing to memory addresses             | [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=pGkhvc36sgU)        |
+| Adding constraints file          | [![HERE](https://upload.wikimedia.org/wikipedia/commons/b/b2/YouTube_logo_%282013-2015%29.png)](https://www.youtube.com/watch?v=baFEqLVBG1E) |
+| IP creator   | [![HERE](https://upload.wikimedia.org/wikipedia/commons/b/b2/YouTube_logo_%282013-2015%29.png)](https://www.youtube.com/watch?v=gnbRVULOWoU) |
+| IP packaging             | [![HERE](https://upload.wikimedia.org/wikipedia/commons/b/b2/YouTube_logo_%282013-2015%29.png)](https://www.youtube.com/watch?v=Xzvocc-HCl0&feature=youtu.be)        |
+| Writing to memory addresses             | [![HERE](https://upload.wikimedia.org/wikipedia/commons/b/b2/YouTube_logo_%282013-2015%29.png)](https://www.youtube.com/watch?v=pGkhvc36sgU)        |
 
 
 
