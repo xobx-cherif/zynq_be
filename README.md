@@ -7,11 +7,8 @@
 > “Don’t criticize what you don’t understand, son. You never walked in that man’s shoes.”
 >         – Elvis Presley
 
-# Course tutor
+# Course instructor
 
-<p align="center"> 
-<img src="https://wi-images.condecdn.net/image/0x1LedAko1J/crop/810/f/phd-front.jpg" >
-</p>
 
   * CHERIF Bilel
   * email : bcherif@laas.fr
