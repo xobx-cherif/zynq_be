@@ -49,10 +49,10 @@
   
 | Thing              | Link        |
 | ------------------- | ----------- |
-| Adding constraints file          | [![HERE](https://upload.wikimedia.org/wikipedia/commons/b/b2/YouTube_logo_%282013-2015%29.png)](https://www.youtube.com/watch?v=baFEqLVBG1E) |
-| IP creator   | [![HERE](https://upload.wikimedia.org/wikipedia/commons/b/b2/YouTube_logo_%282013-2015%29.png)](https://www.youtube.com/watch?v=gnbRVULOWoU) |
-| IP packaging             | [![HERE](https://upload.wikimedia.org/wikipedia/commons/b/b2/YouTube_logo_%282013-2015%29.png)](https://www.youtube.com/watch?v=Xzvocc-HCl0&feature=youtu.be)        |
-| Writing to memory addresses             | [![HERE](https://upload.wikimedia.org/wikipedia/commons/b/b2/YouTube_logo_%282013-2015%29.png)](https://www.youtube.com/watch?v=pGkhvc36sgU)        |
+| Adding constraints file          | [![HERE](https://upload.wikimedia.org/wikipedia/commons/b/b2/YouTube_logo_%282013-2015%29.png | width=40)](https://www.youtube.com/watch?v=baFEqLVBG1E) |
+| IP creator   | [![HERE](https://upload.wikimedia.org/wikipedia/commons/b/b2/YouTube_logo_%282013-2015%29.png | width=40)](https://www.youtube.com/watch?v=gnbRVULOWoU) |
+| IP packaging             | [![HERE](https://upload.wikimedia.org/wikipedia/commons/b/b2/YouTube_logo_%282013-2015%29.png | width=40)](https://www.youtube.com/watch?v=Xzvocc-HCl0&feature=youtu.be)        |
+| Writing to memory addresses             | [![HERE](https://upload.wikimedia.org/wikipedia/commons/b/b2/YouTube_logo_%282013-2015%29.png | width=40)](https://www.youtube.com/watch?v=pGkhvc36sgU)        |
 
 
 
