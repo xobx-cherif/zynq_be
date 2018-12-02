@@ -49,10 +49,10 @@
   
 | Thing              | Link        |
 | ------------------- | ----------- |
-| Adding constraints file          | [Here](https://www.youtube.com/watch?v=baFEqLVBG1E) |
-| IP creator   | [Here](https://www.youtube.com/watch?v=gnbRVULOWoU) |
-| IP packaging             | [Here](https://www.youtube.com/watch?v=Xzvocc-HCl0&feature=youtu.be)        |
-| Writing to memory addresses             | [Here](https://www.youtube.com/watch?v=pGkhvc36sgU)        |
+| Adding constraints file          | [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=baFEqLVBG1E) |
+| IP creator   | [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=gnbRVULOWoU) |
+| IP packaging             | [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=Xzvocc-HCl0&feature=youtu.be)        |
+| Writing to memory addresses             | [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=pGkhvc36sgU)        |
 
 
 
