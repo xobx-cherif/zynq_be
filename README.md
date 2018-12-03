@@ -114,7 +114,7 @@ In this project we will develop a prototype pf a guitar multi-effects pedal (we 
   * SSM2603 datasheet [link](http://www.analog.com/media/en/technical-documentation/data-sheets/SSM2603.pdf)
   * VHDL Testbench generation tool [here](http://vhdl.lapinoo.net/testbench/)
   
-  ```
+  ```c
  .----------------.  .----------------.  .----------------.  .----------------. 
 | .--------------. || .--------------. || .--------------. || .--------------. |
 | |  _______     | || |     ____     | || |     ______   | || |  ___  ____   | |
