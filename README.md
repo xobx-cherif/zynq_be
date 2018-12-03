@@ -30,7 +30,18 @@
    |_____|____|/   |_____|/         |____|   |___|/   \|____||   | 
      \(    )/         )/              \(       )/        \(  |___|   
       '    '          '                '       '          '    )/     
-                                                               '   
+                                                               '  
+==========================================================================
+| --------------------------Choose your weapon---------------------------|
+|------------------------------------------------------------ Try at home|
+==========================================================================
+1. Read TRM (too many pages => Hardcores).
+2. Read Zynq boot (no technical details => Bored and have nothing to do).
+3. Code at home and hack the bsp! ( Requires 1&2 => Brave hearts).
+4. Read the chronicles of microzed ( complete simple apps tutos => lazy).
+
+Student@insa:~/be_zynq/course$
+
 ```
 
   * Zynq book [link](http://www.zynqbook.com) : un livre sur le SOC Zynq de renommée internationale
