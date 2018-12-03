@@ -49,7 +49,7 @@
   * Video tutorials :
   
 | Thing              | Link        |
-| ------------------- | ----------- |
+| :-------------------: | :-----------: |
 | Adding constraints file          | [<img src="http://www.myiconfinder.com/uploads/iconsets/256-256-3a1eef40f04875d93dd6545f2f1b727e-youtube.png" width="65">](https://www.youtube.com/watch?v=baFEqLVBG1E) |
 | IP creator   | [<img src="http://www.myiconfinder.com/uploads/iconsets/256-256-3a1eef40f04875d93dd6545f2f1b727e-youtube.png" width="65">](https://www.youtube.com/watch?v=gnbRVULOWoU) |
 | IP packaging             | [<img src="http://www.myiconfinder.com/uploads/iconsets/256-256-3a1eef40f04875d93dd6545f2f1b727e-youtube.png" width="65">](https://www.youtube.com/watch?v=Xzvocc-HCl0&feature=youtu.be)        |
