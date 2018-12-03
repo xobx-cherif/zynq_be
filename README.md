@@ -17,6 +17,23 @@
 
 # Documentation
 
+                                                                   
+   _____        _____      _____  _____   ______          ______   
+  /    /|___   |\    \    /    /||\    \ |\     \     ___|\     \  
+ /    /|    |  | \    \  /    / | \\    \| \     \   /    /\     \ 
+|\____\|    |  |  \____\/    /  /  \|    \  \     | /    /  |     |
+| |   |/    |___\ |    /    /  /    |     \  |    ||    |   |     |
+ \|___/    /    |\|___/    /  /     |      \ |    ||\    \  |__   |
+    /     /|    |    /    /  /      |    |\ \|    || \    \\`  \ /|
+   |_____|/____/|   /____/  /       |____||\_____/| \ \ ___\\   \ |
+   |     |    | |  |`    | /        |    |/ \|   ||  \ |    ||___|/
+   |_____|____|/   |_____|/         |____|   |___|/   \|____||   | 
+     \(    )/         )/              \(       )/        \(  |___| 
+      '    '          '                '       '          '    )/  
+                                                               '   
+
+
+
   * Zynq book [link](http://www.zynqbook.com) : un livre sur le SOC Zynq de renommée internationale
   *  Altera (le concurrent de ZYNQ, utilise le même contrôleur d'interruption que ZYNQ puisqu'il est fabriqué par ARM) propose une documentation plus digeste que celle de ARM ou Xilinx. [link](5siec_zynq_datas/using_gic.pdf)
   * ARM A9 [link](5siec_zynq_datas/arm_a9_intro_alt.pdf) Intro ARM9 faite par Altera
