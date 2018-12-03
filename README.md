@@ -36,7 +36,7 @@
 |------------------------------------------------------------ Try at home|
 ==========================================================================
 1. Read TRM (too many pages => Hardcores).
-2. Read Zynq boot (no technical details => Bored and have nothing to do).
+2. Read Zynq book (no technical details => Bored and have nothing to do).
 3. Code at home and hack the bsp! ( Requires 1&2 => Brave hearts).
 4. Read the chronicles of microzed ( complete simple apps tutos => lazy).
 
