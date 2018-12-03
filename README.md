@@ -115,6 +115,7 @@ In this project we will develop a prototype pf a guitar multi-effects pedal (we 
   * VHDL Testbench generation tool [here](http://vhdl.lapinoo.net/testbench/)
   
   ```c
+  
  .----------------.  .----------------.  .----------------.  .----------------. 
 | .--------------. || .--------------. || .--------------. || .--------------. |
 | |  _______     | || |     ____     | || |     ______   | || |  ___  ____   | |
