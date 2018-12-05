@@ -4,8 +4,8 @@
 <img src="zybo.png">
 </p>
 
-> “Don’t criticize what you don’t understand, son. You never walked in that man’s shoes.”
->         – Elvis Presley
+> “Sweet child in time , you'll see the line , the line that's drawn between good and bad.”
+>         – Deep purple "child in time". \m/
 
 # Course instructor
 
