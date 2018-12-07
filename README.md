@@ -52,7 +52,7 @@ Student@insa:~/be_zynq/course$
 
 ## Course files
 
- ** Course 0x00 (overview) [link](5siec_zynq_datas/overview.pdf)
+ * Course 0x00 (overview) [link](5siec_zynq_datas/overview.pdf)
  
  * Course 0x01 [link](5siec_zynq_datas/cours_01.pdf)
 
