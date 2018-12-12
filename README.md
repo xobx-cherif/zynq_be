@@ -92,7 +92,7 @@ Student@insa:~/be_zynq/course$
 ## Double handshake protocol TD1
 
   * TD0x01 [link](5siec_zynq_datas/td01.pdf)
-  > Sorry for the mistake on td 01
+  > Sorry for the mistake on td 01.
   > Question should be :
   >- Extract the condition using the ready and valid signals to allow reading the data line.
   >- Write a process that allows to reset the ready signal using rst signal and to set the ready signal.
