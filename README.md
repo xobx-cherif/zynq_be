@@ -96,7 +96,7 @@ Student@insa:~/be_zynq/course$
   > Question should be :
   >- Extract the condition using the ready and valid signals to allow reading the data line.
   >- Write a process that allows to reset the ready signal using rst signal and to set the ready signal.
-  >- Write the process that allows storing the content of data an internal register of the slave module when the handshake occurs.
+  >- Write the process that allows storing the content of data an internal register of the slave module when the handshake occurs and reset the register content to zeros when a reset occurs.
   >- write a testbench to validate your hdl module.
   * Testbench example [link](5siec_zynq_datas/testbench.vhd)
   * Exo1 source codes :
