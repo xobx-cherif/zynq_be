@@ -4,9 +4,6 @@
 <img src="zybo.png">
 </p>
 
-> “Sweet child in time , you'll see the line , the line that's drawn between good and bad.”
->         – Deep purple "child in time". \m/
-
 # Course instructor
 
 
@@ -99,6 +96,8 @@ Student@insa:~/be_zynq/course$
   * Exo1 source codes :
    > 1. TB EX01 [link](5siec_zynq_datas/tb_td_ex01.vhd)
    > 2. EXO01 [link](5siec_zynq_datas/td_ex01.vhd) 	
+   > 3. TB EX02 [link](5siec_zynq_datas/diy_rvhTB.vhd) 
+   > 4. EX02 [link](5siec_zynq_datas/diy_rvhTB.vhd) 
 
 ## Hardware debug TD2
 
