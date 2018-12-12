@@ -97,7 +97,8 @@ Student@insa:~/be_zynq/course$
   * TD0x01 [link](5siec_zynq_datas/td01.pdf)
   * Testbench example [link](5siec_zynq_datas/testbench.vhd)
   * Exo1 source codes :
-   > 1. TB [link](5siec_zynq_datas/tb_td_ex01.vhd)
+   > 1. TB EX01 [link](5siec_zynq_datas/tb_td_ex01.vhd)
+   > 2. EXO01 [link](5siec_zynq_datas/td_ex01.vhd) 	
 
 ## Hardware debug TD2
 
