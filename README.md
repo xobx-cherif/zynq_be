@@ -76,7 +76,8 @@ Student@insa:~/be_zynq/course$
 ## TP 02 doccuments
 
   * TP0x02 [link](5siec_zynq_datas/tp02.pdf) (a report should be sent to my email by the end of the TP)(this is a two sessions TP)
-  * the report should contain the simulation waveform, the response to questions, the hdl codes, and the c code
+  > 1. TB example [link](5siec_zynq_datas/pwm_tb.vhd) 
+  
   * Constraints file [link](5siec_zynq_datas/zybo_master.doc)
   * Video tutorials :
   
