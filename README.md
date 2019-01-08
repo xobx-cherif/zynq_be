@@ -125,7 +125,7 @@ In this project we will develop a prototype pf a guitar multi-effects pedal (we 
   * Project doccument [link](5siec_zynq_datas/project.pdf)
   * Constraints file [link](5siec_zynq_datas/project_constraints.doc)
   * Zybo audio control IP [link](5siec_zynq_datas/xilinx_com_zybo_audio_ctrl_1.0.zip)
-  * audio driver source code [link](5siec_zynq_datas/src.rar)
+  * audio driver source code [link](5siec_zynq_datas/src.zip)
   * SSM2603 datasheet [link](http://www.analog.com/media/en/technical-documentation/data-sheets/SSM2603.pdf)
   * VHDL Testbench generation tool [here](http://vhdl.lapinoo.net/testbench/)
   
