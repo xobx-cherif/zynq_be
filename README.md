@@ -8,7 +8,6 @@
 
 
   * CHERIF Bilel
-  * email : bcherif@laas.fr
 
 
 
